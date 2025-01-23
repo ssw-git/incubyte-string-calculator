@@ -27,7 +27,7 @@ export default function RootLayout() {
   }
 
   return (
-    <View>
+    <View style={{flex: 1}}>
       <StatusBar style="auto" />
       <App />
     </View>

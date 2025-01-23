@@ -4,7 +4,7 @@ import Calculator from "./components/Calculator";
 
 const App = () => {
   return (
-    <View>
+    <View style={{flex: 1}}>
       <Calculator />
     </View>
   );

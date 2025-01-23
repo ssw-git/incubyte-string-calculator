@@ -39,6 +39,6 @@ test("calculates sum correctly when button is pressed", async () => {
   fireEvent.press(button);
 
   await waitFor(() => {
-    expect(result.props.children).toContain(6);
+    expect(result).toHaveTextContent("6");
   });
 });
