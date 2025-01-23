@@ -1,5 +1,5 @@
-![Screenshot 1](ss1.jpg)
-![Screenshot 2](ss2.jpg)
+
+![Screenshot 1](ss1.jpg "Screenshot 1" =200x) ![Screenshot 2](ss2.jpg "Screenshot 2" =200x) 
 
 ## Get started
 
