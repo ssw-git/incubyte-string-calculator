@@ -1,5 +1,9 @@
-
-![Screenshot 1](ss1.jpg "Screenshot 1" =200x) ![Screenshot 2](ss2.jpg "Screenshot 2" =200x) 
+<table>
+  <tr>
+    <td><img src="ss1.jpg" alt="Screenshot 1" width="200"></td>
+    <td><img src="ss2.jpg" alt="Screenshot 2" width="200"></td>
+  </tr>
+</table>
 
 ## Get started
 
